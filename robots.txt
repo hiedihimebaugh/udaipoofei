@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheegaish.trojansandruleoflaw.org/sitemap.xml
